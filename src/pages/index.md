@@ -1,12 +1,13 @@
 ---
 templateKey: index-page
-title: Novel updates
+title: Death in the University of South Auckland
 image: /img/home-jumbotron.jpg
 heading: The heading
-subheading: Subheading
+subheading: A murder mystery
 mainpitch:
-  title: What are you trying to do
+  title: Would you like to read chapters of my novel (in draft form) roughly as I
+    write them?
   description: >
-    sell it here
-
+    Each week I shall post a new chapter.  The chapters are very short. I hope
+    you will be entertained.
 ---
