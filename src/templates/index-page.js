@@ -7,10 +7,8 @@ import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
   title,
-  heading,
   subheading,
   mainpitch,
-  description,
 }) => (
   <div>
         <div
@@ -73,11 +71,11 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    Latest chapters
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/stories">
+                    <Link className="btn" to="/chapters">
                       Read more
                     </Link>
                   </div>
