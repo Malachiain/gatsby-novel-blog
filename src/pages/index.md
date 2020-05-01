@@ -11,6 +11,7 @@ mainpitch:
     write them? Each week I shall post a new chapter or two.  The chapters are
     very short. I hope you will be entertained. I am happy to receive comments,
     such as about something I have got wrong. Just email me at
-    davidlumsden49@gmail.com but please don't feel obliged to comment if you
-    don't want to.
+    davidlumsden49@gmail.com. Please don't feel obliged to comment if you don't
+    want to, but the occasional note to say you are still reading could be
+    helpful
 ---
