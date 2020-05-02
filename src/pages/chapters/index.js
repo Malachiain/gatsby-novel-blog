@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import ChapterList from "../../components/ChapterList";
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -22,13 +22,13 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Chapters
+            Chapters
           </h1>
         </div>
         <section className="section">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <ChapterList />
             </div>
           </div>
         </section>
