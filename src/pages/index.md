@@ -3,7 +3,7 @@ templateKey: index-page
 title: Death in the University of South Auckland
 image: /img/home-jumbotron.jpg
 heading: The heading
-subheading: copyright David Lumsden 2020
+subheading: David Lumsden
 mainpitch:
   title: Invitation to read
   description: >
