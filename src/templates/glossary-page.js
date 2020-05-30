@@ -17,6 +17,7 @@ const Definition = ({ word, definition }) => {
 }
 
 export const GlossaryPageTemplate = ({ title, definitions }) => {
+    const sortedDefinitions = definitions.sort();
     return (
         <section className="section section--gradient">
             <div className="container">
@@ -26,7 +27,7 @@ export const GlossaryPageTemplate = ({ title, definitions }) => {
                             <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                                 {title}
                             </h2>
-                            {definitions.map(Definition)}
+                            {sortedDefinitions.map(Definition)}
                         </div>
                     </div>
                 </div>
