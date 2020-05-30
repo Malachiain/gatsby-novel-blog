@@ -19,4 +19,7 @@ definitions:
     definition: tribe
   - word: kai
     definition: food
+  - word: koru
+    definition: |
+      the spiral shape of an unfurling silver fern frond
 ---
