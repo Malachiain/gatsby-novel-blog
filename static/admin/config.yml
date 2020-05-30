@@ -42,4 +42,11 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/glossary/index.md"
+        label: "Glossary"
+        name: "glossary"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "glossary-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Definitions", name: "definitions", widget: "list", fields: [{label: Word, name: word, widget: string}, {label: Definition, name: definition, widget: text}]}
     
