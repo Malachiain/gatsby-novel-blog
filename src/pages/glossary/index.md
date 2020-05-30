@@ -30,4 +30,6 @@ definitions:
       welcome
   - word: kaumātua
     definition: elder
+  - word: tēnā koutou, tēnā koutou, tēnā koutou katoa
+    definition: I greet you all
 ---
