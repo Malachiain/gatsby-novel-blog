@@ -28,4 +28,6 @@ definitions:
   - word: pōwhiri
     definition: |
       welcome
+  - word: kaumātua
+    definition: elder
 ---
