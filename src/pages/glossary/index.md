@@ -32,4 +32,6 @@ definitions:
     definition: elder
   - word: tēnā koutou, tēnā koutou, tēnā koutou katoa
     definition: I greet you all
+  - word: tangata whenua
+    definition: people of the land, the host people
 ---
