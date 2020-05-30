@@ -25,4 +25,7 @@ definitions:
   - word: pākehā
     definition: |
       New Zealander of European origin
+  - word: pōwhiri
+    definition: |
+      welcome
 ---
