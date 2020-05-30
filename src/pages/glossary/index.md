@@ -34,4 +34,8 @@ definitions:
     definition: I greet you all
   - word: tangata whenua
     definition: people of the land, the host people
+  - word: manuhiri
+    definition: visitor(s)
+  - word: hongi
+    definition: pressing noses as a greeting
 ---
