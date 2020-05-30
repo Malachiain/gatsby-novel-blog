@@ -1,20 +1,22 @@
 ---
-templateKey: 'glossary-page'
+templateKey: glossary-page
 path: glossary
-title: 'Glossary of Māori words'
+title: Glossary of Māori words
 definitions:
-    - word: 'Aotearoa'
-      definition: 'New Zealand – literally – Long white cloud' 
-    - word: 'aroha'
-      definition: 'love'     
-    - word: 'hangi'
-      definition: 'traditional feast prepared in earth oven'     
-    - word: 'haka'
-      definition: 'war dance with actions'
-    - word: 'hīkoi'
-      definition: 'walk' 
-    - word: 'hui'
-      definition: 'gathering, meeting' 
-    - word: 'iwi'
-      definition: 'tribe' 
+  - word: Aotearoa
+    definition: New Zealand – literally – Long white cloud
+  - word: aroha
+    definition: love
+  - word: hangi
+    definition: traditional feast prepared in earth oven
+  - word: haka
+    definition: war dance with actions
+  - word: hīkoi
+    definition: walk
+  - word: hui
+    definition: gathering, meeting
+  - word: iwi
+    definition: tribe
+  - word: kai
+    definition: food
 ---
