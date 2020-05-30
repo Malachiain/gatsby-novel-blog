@@ -1,7 +1,7 @@
 ---
 templateKey: glossary-page
 path: glossary
-title: Glossary of Māori words
+title: Glossary of Māori words and phrases
 definitions:
   - word: Aotearoa
     definition: New Zealand – literally – Long white cloud
@@ -20,6 +20,9 @@ definitions:
   - word: kai
     definition: food
   - word: koru
-    definition: |+
+    definition: |
       the spiral shape of an unfurling silver fern frond
+  - word: pākehā
+    definition: |
+      New Zealander of European origin
 ---
