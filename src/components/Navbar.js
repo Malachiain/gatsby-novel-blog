@@ -70,7 +70,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/characters">
+              <Link style={{
+                display: 'none'
+              }} className="navbar-item" to="/characters">
                 Characters
               </Link>
               <Link className="navbar-item" to="/glossary">
