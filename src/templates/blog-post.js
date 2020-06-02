@@ -11,7 +11,10 @@ export const BlogPostTemplate = ({
   description,
   title,
   helmet,
+  pageContext
 }) => {
+  const { next, prev } = pageContext
+
   const PostContent = contentComponent || Content
 
   return (
@@ -27,6 +30,14 @@ export const BlogPostTemplate = ({
             <PostContent content={content} />
           </div>
         </div>
+        <div style={{
+          justifyContent: 'space-between',
+          display: 'flex',
+          margin: '1em 0'
+        }}>
+          {prev ? <a href={prev} className="button has-text-dark">Previous chapter</a> : <span></span>}
+          {next ? <a href={next} className="button has-text-dark">Next chapter</a> : <span></span>}
+        </div>
         <p className="content">© 2020 David Lumsden</p>
       </div>
 
@@ -40,9 +51,10 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  pageContext: PropTypes.object,
 }
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, pageContext }) => {
   const { markdownRemark: post } = data
 
   return (
@@ -61,6 +73,8 @@ const BlogPost = ({ data }) => {
           </Helmet>
         }
         title={post.frontmatter.title}
+        pageContext={pageContext}
+
       />
     </Layout>
   )
@@ -69,6 +83,7 @@ const BlogPost = ({ data }) => {
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
+    pageContext: PropTypes.object
   }),
 }
 

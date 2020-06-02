@@ -8,7 +8,9 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        sort: {order: ASC, fields: [frontmatter___date]}
+      ) {
         edges {
           node {
             id
@@ -30,8 +32,11 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
 
-    posts.forEach(edge => {
+    posts.forEach((edge, index) => {
       const id = edge.node.id
+
+      const prev = index === 0 ? null : chapterPathOrNull(posts[index - 1].node)
+      const next = index === (posts.length - 1) ? null : chapterPathOrNull(posts[index + 1].node)
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve(
@@ -40,6 +45,8 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          prev,
+          next
         },
       })
     })
@@ -47,6 +54,11 @@ exports.createPages = ({ actions, graphql }) => {
 
 
   })
+}
+
+const chapterPathOrNull = (node) => {
+  const path = node.fields.slug;
+  return path.includes('chapters') ? path : null;
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

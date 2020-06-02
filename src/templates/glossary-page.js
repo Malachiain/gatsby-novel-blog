@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 
 const Definition = ({ word, definition }) => {
     return (
-        <div className="columns is-gapless" style={{
+        <div key={word} className="columns is-gapless" style={{
             borderBottom: 'solid 1px grey'
         }
         }>
