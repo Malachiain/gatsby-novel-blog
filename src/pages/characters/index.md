@@ -17,12 +17,16 @@ Aroha's house
 * Roimata - Ngahuia's daughter, age 7
 * Mikaere - Aroha's younger son, age 22
 * Moana - kapahaka teacher, Hemi's girlfriend
-* Tane Paraone - the great Dane
+* Tane Paraone (Mr. Brown) - the great Dane
 
 Inka's building
 
 * Marion - social psychology lecturer, Inka's office mate
 * Carolyn - English lecturer, Inka's office mate
+
+  * Derek - Carolyn's husband, police detective
+  * Adam - Carolyn's son, age 16
+  * Kylie - Carolyn's daughter, age 8
 * Vijay - IT support
 * Eric - IT support
 
