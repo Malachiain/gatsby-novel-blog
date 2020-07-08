@@ -9,7 +9,7 @@ definitions:
     definition: New Zealand – literally – Long white cloud
   - word: aroha
     definition: love
-  - word: hangi
+  - word: hāngī
     definition: traditional feast prepared in earth oven
   - word: haka
     definition: war dance with actions
