@@ -68,4 +68,6 @@ definitions:
     definition: family
   - word: whare kai
     definition: eating hall
+  - word: pounamu
+    definition: New Zealand greenstone
 ---
