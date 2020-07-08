@@ -3,7 +3,7 @@ templateKey: glossary-page
 path: glossary
 title: Glossary of Māori words and phrases
 definitions:
-  - word: amene
+  - word: āmene
     definition: amen
   - word: Aotearoa
     definition: New Zealand – literally – Long white cloud
