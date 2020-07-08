@@ -66,7 +66,7 @@ definitions:
     definition: What a beautiful woman!
   - word: whaea
     definition: mother, aunt
-  - word: whanau
+  - word: whānau
     definition: family
   - word: whare kai
     definition: eating hall
