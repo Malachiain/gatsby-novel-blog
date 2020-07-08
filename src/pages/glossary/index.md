@@ -49,7 +49,7 @@ definitions:
   - word: pākehā
     definition: |
       New Zealander of European origin
-  - word: paraone
+  - word: parāone
     definition: brown
   - word: pōwhiri
     definition: |
