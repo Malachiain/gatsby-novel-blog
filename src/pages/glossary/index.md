@@ -54,6 +54,8 @@ definitions:
   - word: pōwhiri
     definition: |
       welcome
+  - word: pounamu
+    definition: New Zealand greenstone
   - word: tane
     definition: man
   - word: tangata whenua
@@ -68,6 +70,4 @@ definitions:
     definition: family
   - word: whare kai
     definition: eating hall
-  - word: pounamu
-    definition: New Zealand greenstone
 ---
