@@ -7,11 +7,13 @@ subheading: David Lumsden
 mainpitch:
   title: Invitation to read
   description: >
-    Would you like to read chapters of my novel (in draft form) roughly as I
-    write them? Each week I shall post two new chapters.  The chapters are very
-    short. I hope you will be entertained. I am happy to receive comments, such
-    as about something I have got wrong. Just email me at
-    davidlumsden49@gmail.com. Please don't feel obliged to comment if you don't
-    want to, but the occasional note to say you are still reading will be
-    encouraging.
+    My novel, actually a novella it turns out, finishes at chapter 25.  I shall
+    leave it up here for a month or two, but do plan in the meantime to work on
+    revisions.  I want to work on the language, particularly the dialogue,
+    trying to make it more appropriate to the characters.  I shall also be
+    looking at timelines more carefully and shall generally try to eliminate any
+    plot inconsistencies.  I would welcome any comments, especially about
+    particular places where you think a correction or improvement is in order.
+    Just email me at davidlumsden49@gmail.com. Thank you for reading.  I wonder
+    what happens next to Inka.
 ---
