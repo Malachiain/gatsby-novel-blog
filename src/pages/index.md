@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Death in the University of South Auckland
-image: /img/home-jumbotron.jpg
+image: /img/harbour.jpg
 heading: The heading
 subheading: David Lumsden
 mainpitch:
