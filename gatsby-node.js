@@ -9,7 +9,7 @@ exports.createPages = ({ actions, graphql }) => {
   return graphql(`
     {
       allMarkdownRemark(
-        sort: {order: ASC, fields: [frontmatter___date]}
+        sort: {order: ASC, fields: [frontmatter___book, frontmatter___date]}
       ) {
         edges {
           node {
@@ -35,8 +35,8 @@ exports.createPages = ({ actions, graphql }) => {
     posts.forEach((edge, index) => {
       const id = edge.node.id
 
-      const prev = index === 0 ? null : chapterPathOrNull(posts[index - 1].node)
-      const next = index === (posts.length - 1) ? null : chapterPathOrNull(posts[index + 1].node)
+      const prev = index === 0 ? null : chapterPathOrNull(posts[index - 1].node, edge.node)
+      const next = index === (posts.length - 1) ? null : chapterPathOrNull(posts[index + 1].node, edge.node)
       createPage({
         path: edge.node.fields.slug,
         component: path.resolve(
@@ -56,7 +56,11 @@ exports.createPages = ({ actions, graphql }) => {
   })
 }
 
-const chapterPathOrNull = (node) => {
+const chapterPathOrNull = (node, otherNode) => {
+
+  if (node.frontmatter.templateKey !== otherNode.frontmatter.templateKey) {
+    return null
+  }
   const path = node.fields.slug;
   return path.includes('chapters') ? path : null;
 }

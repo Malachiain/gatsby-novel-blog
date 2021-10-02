@@ -1,10 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { GlossaryPageTemplate } from '../../templates/glossary-page'
+import  {GlossaryPageTemplate}  from '../../templates/glossary-page-template'
 
 const GlossaryPagePreview = ({ entry }) => {
   const data = entry.getIn(['data']).toJS()
-  console.log(data);
+
 
   if (data) {
     return (

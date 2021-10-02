@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { BlogPostTemplate } from '../../templates/blog-post'
+import { ChapterTemplate } from '../../components/Chapter'
 
 const BlogPostPreview = ({ entry, widgetFor }) => {
 
   return (
-    <BlogPostTemplate
+    <ChapterTemplate
       content={widgetFor('body')}
       description={entry.getIn(['data', 'description'])}
       title={entry.getIn(['data', 'title'])}

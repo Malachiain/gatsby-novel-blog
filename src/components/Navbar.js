@@ -65,7 +65,14 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/chapters">
-                Chapters
+              Death in the University of South Auckland
+              </Link>
+              <Link className="navbar-item" to="/book-two" style={
+                {
+                  display: 'none'
+                }
+              }>
+              2 South Auckland 2 die (working title)
               </Link>
               <Link className="navbar-item" to="/about">
                 About
