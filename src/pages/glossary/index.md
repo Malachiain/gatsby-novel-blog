@@ -6,7 +6,8 @@ definitions:
   - word: āmene
     definition: amen
   - word: Aotearoa
-    definition: New Zealand – literally – Long white cloud
+    definition: New Zealand – literally – Long white cloud. It was first used to
+      refer just to the North Island.
   - word: aroha
     definition: love
   - word: hāngī
