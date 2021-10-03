@@ -2,15 +2,15 @@
 templateKey: index-page
 title: Inka in Aotearoa-New Zealand
 image: /img/harbour.jpg
-heading: The heading
+heading: A novel in two volumes
 subheading: David Lumsden
 mainpitch:
   title: Invitation to read
   description: >
-    Volume 1 of my novel, "Death in the University of South Auckland" finishes
+    "Death in the University of South Auckland", Volume 1 of my novel,  finishes
     at chapter 25.   I would welcome any comments, especially about particular
     places where you think a correction or improvement is in order. Just email
-    me at davidlumsden49@gmail.com. Volume 2, "Inka Moonlighting" is underway.
+    me at davidlumsden49@gmail.com. "Inka Moonlighting", Volume 2, is underway.
 bookOne:
   title: Death in the University of South Auckland
   url: /chapters
