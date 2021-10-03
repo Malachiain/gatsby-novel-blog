@@ -67,12 +67,8 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/chapters">
               Death in the University of South Auckland
               </Link>
-              <Link className="navbar-item" to="/book-two" style={
-                {
-                  display: 'none'
-                }
-              }>
-              2 South Auckland 2 die (working title)
+              <Link className="navbar-item" to="/book-two">
+              Inka moonlighting
               </Link>
               <Link className="navbar-item" to="/about">
                 About

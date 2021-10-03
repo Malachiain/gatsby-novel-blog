@@ -22,8 +22,8 @@ bookOne:
   description: >
     Description of a "Death in the University of South Auckland"       
 bookTwo: 
-  title: Book two
+  title: Inka moonlighting
   url: /book-two
   description: >
-    Description of "Book two"       
+    Description of "Inka moonlighting"       
 ---
