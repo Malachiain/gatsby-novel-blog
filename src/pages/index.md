@@ -15,10 +15,10 @@ bookOne:
   title: Death in the University of South Auckland
   url: /chapters
   description: |
-    Description of a "Death in the University of South Auckland"       
+    Volume 1 of 'Inka in Aotearoa-New Zealand' 
 bookTwo:
   title: Inka moonlighting
   url: /book-two
   description: |
-    Coming soon
+    Volume 2 of 'Inka in Aotearoa-New Zealand'
 ---
