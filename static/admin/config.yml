@@ -42,6 +42,8 @@ collections:
           - {label: Heading, name: heading, widget: string}
           - {label: Subheading, name: subheading, widget: string}
           - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
+          - {label: Book one, name: bookOne, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}, {label: "url", name: "url", widget: "hidden", default: "/chapters"}]}
+          - {label: Book two, name: bookTwo, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text, {label: "url", name: "url", widget: "hidden", default: "/book-two"}]}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"

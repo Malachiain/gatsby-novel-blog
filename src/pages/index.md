@@ -16,4 +16,14 @@ mainpitch:
     particular places where you think a correction or improvement is in order.
     Just email me at davidlumsden49@gmail.com. Thank you for reading.  I wonder
     what happens next to Inka.
+bookOne: 
+  title: Death in the University of South Auckland
+  url: /chapters
+  description: >
+    Description of a "Death in the University of South Auckland"       
+bookTwo: 
+  title: Book two
+  url: /book-two
+  description: >
+    Description of "Book two"       
 ---

@@ -20,6 +20,8 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
+        books={[frontmatter.bookOne, frontmatter.bookTwo]}
+
       />
     </Layout>
   )
@@ -45,6 +47,16 @@ export const pageQuery = graphql`
         mainpitch {
           title
           description
+        }
+        bookOne {
+          title
+          description
+          url
+        }
+        bookTwo {
+          title
+          description
+          url
         }
       }
     }

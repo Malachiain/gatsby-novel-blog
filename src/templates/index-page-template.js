@@ -2,20 +2,21 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 
-import BlogRoll from '../components/BlogRoll'
+
 
 export const IndexPageTemplate = ({
   title,
   subheading,
   mainpitch,
+  books
 }) => (
   <div>
-        <div
-          className="full-width-image-container margin-top-0"
-          style={{
-            backgroundImage: `url('/img/harbour.jpg')`,
-          }}
-        >
+    <div
+      className="full-width-image-container margin-top-0"
+      style={{
+        backgroundImage: `url('/img/harbour.jpg')`,
+      }}
+    >
       <div
         style={{
           display: 'flex',
@@ -58,7 +59,7 @@ export const IndexPageTemplate = ({
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-11 is-offset-1">
               <div className="content">
                 <div className="content">
                   <div className="tile">
@@ -70,14 +71,34 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest chapters
+                    Novellas
                   </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/chapters">
-                      Read more
-                    </Link>
+                  <div className="columns is-multiline">
+                    {books.map(({ title, description, url }, index) => (
+                      <div className="is-parent column is-6" key={index}>
+                        <article
+                          className={`blog-list-item tile is-child box notification `}
+                        >
+                          <header>
+                            <p className="post-meta">
+                              <Link
+                                className="title has-text-primary is-size-4"
+                                to={url}
+                              >
+                                {title}
+                              </Link>
+
+                            </p>
+                          </header>
+                          <p>
+                            {description}
+
+                          </p>
+                        </article>
+                      </div>
+                    ))}
                   </div>
+
                 </div>
               </div>
             </div>

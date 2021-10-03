@@ -19,6 +19,7 @@ exports.createPages = ({ actions, graphql }) => {
             }
             frontmatter {
               templateKey
+              book
             }
           }
         }
@@ -58,7 +59,7 @@ exports.createPages = ({ actions, graphql }) => {
 
 const chapterPathOrNull = (node, otherNode) => {
 
-  if (node.frontmatter.templateKey !== otherNode.frontmatter.templateKey) {
+  if (node.frontmatter.book !== otherNode.frontmatter.book) {
     return null
   }
   const path = node.fields.slug;
