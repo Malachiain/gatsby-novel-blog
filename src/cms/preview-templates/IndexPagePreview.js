@@ -6,12 +6,14 @@ const IndexPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS()
 
   if (data) {
+    const books = data.bookOne && data.bookTwo ? [data.bookOne, data.bookTwo]: []
     return (
       <IndexPageTemplate
         title={data.title}
         heading={data.heading}
         subheading={data.subheading}
         mainpitch={data.mainpitch || {}}
+        books={books}
       />
     )
   } else {
