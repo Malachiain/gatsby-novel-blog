@@ -71,7 +71,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Novellas
+                    Volumes
                   </h3>
                   <div className="columns is-multiline">
                     {books.map(({ title, description, url }, index) => (
