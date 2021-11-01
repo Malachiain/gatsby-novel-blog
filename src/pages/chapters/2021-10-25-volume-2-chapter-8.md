@@ -13,7 +13,7 @@ I take the train from Papatoetoe into Central Auckland, about half an hour. You 
 
 A chill comes over me and I am transfixed for what seems like an age. I pull myself together and approach him to see if he has a pulse. I press my fingers to his neck and can't find one but maybe I am not quite in the right spot. He feels warm. He is face down on the desk so it is not easy to check if he is breathing but he doesn’t appear to be. I get out my phone and dial the emergency number 111. Just as it is ringing someone appears at the open door and gives a short high pitched scream. It is Suu Maung. I give her a wave of acknowledgement and ask the emergency operator for an Ambulance. 
 
-“There is a man here slumped over his desk. I can’t find a pulse. I need an ambulance quickly. I am at the University of Auckland, Science Building 301, Symonds Street. My name? Inka Makonnen. M, A, K, O, double N, E, N. Yes, I will see if someone will guide you to the room. Yes, they can call me back on this number.”
+“There is a man here slumped over his desk. I can’t find a pulse. I need an ambulance quickly. I am at the University of Auckland, Science Building 301, Symonds Street. My name? Inka Makonnen. M, A, double K, O,  N, E, N. Yes, I will see if someone will guide you to the room. Yes, they can call me back on this number.”
 
 I turn to Suu Maung. “Do you know where the nearest administrator’s office is?”
 
