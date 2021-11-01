@@ -3,7 +3,7 @@ templateKey: about-page
 path: /characters
 title: List of characters
 ---
-* Inka Makkara - Professor of Gender Studies at the University of South Auckland
+* Inka Makkonen - Professor of Gender Studies at the University of South Auckland
 * Maria - Inka's former partner
 * Aroha McLean - The Acting Dean of Arts at the University of South Auckland
 * The President of Ambrosia University, Hartford, Connecticut
