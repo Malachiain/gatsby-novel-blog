@@ -7,13 +7,13 @@ description: Vol 2, Ch 8
 ---
 Chapter 8
 
-It is Wednesday afternoon, the day Maria is coming up from Wellington. I was able to arrange an appointment to meet Professor Merrick at 2 pm. My cover was that I am investigating  women in various professions cross-nationally including between the USA and Aotearoa-New Zealand. I made a point of including ‘Aotearoa’ in the name of the country in order to live up to an image of a Gender Studies Professor. Oh, I am not *pretending* to be a Professor of Gender Studies, or am I? I do occasionally succumb to imposter syndrome. Anyway, maybe now I am really a SIS operative and the academic role is my cover. 
+It is Wednesday afternoon, the day Maria is coming up from Wellington. I was able to arrange an appointment to meet Professor Merrick at 2 pm. My cover was that I am investigating  women in various professions cross-nationally including between the USA and Aotearoa-New Zealand. I made a point of including ‘Aotearoa’ in the name of the country in order to live up to an image of a Gender Studies Professor. Oh, I am not pretending to be a Professor of Gender Studies, or am I? I do occasionally succumb to imposter syndrome. Anyway, maybe now I am really a SIS operative and the academic role is my cover. 
 
 I take the train from Papatoetoe into Central Auckland, about half an hour. You have to walk up a fairly steep hill to reach the University of Auckland and the weather is warm but it is good exercise. I make my way through the campus to the far end where the modern science building are located. I thought I had plenty of time before my appointment but in fact I find my way to Merrick’s office right on the time we have our appointment. I knock on the door. There is no answer. I knock again and there is total silence within. No talking, no sound of typing. I wait for a few minutes, thinking he might return to his office any moment. Or perhaps he is taking a nap. I knock a third time and out of frustration I try the door. The desk is directly opposite the door and sitting in the chair and slumped right over the desk is a man, presumably Professor Peter Eldon Merrick III.
 
 A chill comes over me and I am transfixed for what seems like an age. I pull myself together and approach him to see if he has a pulse. I press my fingers to his neck and can't find one but maybe I am not quite in the right spot. He feels warm. He is face down on the desk so it is not easy to check if he is breathing but he doesn’t appear to be. I get out my phone and dial the emergency number 111. Just as it is ringing someone appears at the open door and gives a short high pitched scream. It is Suu Maung. I give her a wave of acknowledgement and ask the emergency operator for an Ambulance. 
 
-“There is a man here slumped over his desk. I can’t find a pulse. I need an ambulance quickly. I am at the University of Auckland, Science Building 301, Symonds Street. My name? Inka Makonnen. M, A, double K, O,  N, E, N. Yes, I will see if someone will guide you to the room. Yes, they can call me back on this number.”
+“There is a man here slumped over his desk. I can’t find a pulse. I need an ambulance quickly. I am at the University of Auckland, Science Building 301, Symonds Street. My name? Inka Makonnen. M, A, K, O, double N, E, N. Yes, I will see if someone will guide you to the room. Yes, they can call me back on this number.”
 
 I turn to Suu Maung. “Do you know where the nearest administrator’s office is?”
 
@@ -35,11 +35,11 @@ Mary shocks me by saying, “That’s not Professor Merrick! I don’t recognise
 
 “Oh! I had an appointment with Professor Merrick but I had never met him before.”
 
-In fact, I had seen a photo of him on the website but didn’t study it carefully, and the face down sight of a slightly balding sandy coloured hair man didn’t contain anything to shake my natural assumption that the man in Merrick’s office was indeed Marrick. 
+In fact, I had seen a photo of him on the website but didn’t study it carefully, and the sight of a slightly balding man with sandy coloured hair face down didn’t contain anything to shake my natural assumption that the man in Merrick’s office was indeed Marrick. 
 
 Mary seems a little relieved as well as puzzled. She makes no attempt to check for vital signs. I half think we should be attempting vigorous resuscitation but I don’t say anything as I think it is futile. 
 
-“I think I should phone the police, I say, unless you would prefer to,” I say.
+“I think I should phone the police unless you would prefer to,” I say.
 
 “Oh, the police? Yes, I suppose so. No. You go ahead, but you can give me as the university contact. Mary Tyler, extension 8752.” 
 
