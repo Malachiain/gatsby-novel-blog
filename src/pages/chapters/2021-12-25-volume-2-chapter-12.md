@@ -27,7 +27,9 @@ Smithers lays out the information systematically. “It took us a little while t
 
 “Ah. On the face of it, it was heart failure but we are keeping an open mind.”
 
-As we continue with our lunch, Smithers lays out how he wants to play the interview with Merrick. He might be puzzled why the police are involved but can be told that the matter was referred to us initially because the deceased was not known at the University, which indeed is true. This will lead on to questioning about who he is and why he was in the office. 
+As we continue with our lunch, Smithers Invites me to join him interviewing  Merrick and lays out how he wants to play it. 
+
+“He might be puzzled why the police are involved but can be told that the matter was referred to us initially because the deceased was not known at the University, which indeed is true. This will lead on to questioning about who he is and why he was in the office.” 
 
 “I would like to take the lead in the questioning,” Smithers says. “I will introduce you as someone seconded to assist me. I would like you to take handwritten notes, in large part for appearance’s sake so you can  observe his reactions discreetly. You may wish to ask a question from time to time, to which I will acquiesce with an indulgent smile. You may look as if you are checking details for your notes. Are you comfortable with this way of proceeding?” 
 
