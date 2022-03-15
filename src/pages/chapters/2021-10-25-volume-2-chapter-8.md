@@ -5,6 +5,8 @@ title: Volume 2, Chapter 8
 date: 2021-10-25T04:33:22.718Z
 description: Vol 2, Ch 8
 ---
+Chapter 8
+
 It is Wednesday afternoon, the day Maria is coming up from Wellington. I was able to arrange an appointment to meet Professor Merrick at 2 pm. My cover was that I am investigating  women in various professions cross-nationally including between the USA and Aotearoa-New Zealand. I made a point of including ‘Aotearoa’ in the name of the country in order to live up to an image of a Gender Studies Professor. Oh, I am not pretending to be a Professor of Gender Studies, or am I? I do occasionally succumb to imposter syndrome. Anyway, maybe now I am really a SIS operative and the academic role is my cover. 
 
 I take the train from Papatoetoe into Central Auckland, about half an hour. You have to walk up a fairly steep hill to reach the University of Auckland and the weather is warm but it is good exercise. I make my way through the campus to the far end where the modern science buildings are located. I thought I had plenty of time before my appointment but in fact I find my way to Merrick’s office just in time for our appointment. I knock on the door. There is no answer. I knock again and there is total silence within. No talking, no sound of typing. I wait for a few minutes, thinking he might return to his office any moment. Or perhaps he is taking a nap. I knock a third time and out of frustration I try the door. The desk is directly opposite the door and sitting in the chair slumped right over the desk is a man, presumably Professor Peter Eldon Merrick III.
@@ -45,7 +47,7 @@ I carefully close the door this time and we walk back to Mary’s office.
 
 “Let me find the number for Auckland Central Police Station for you,” she offers, and quickly finds it.
 
-I walk into the corridor to make my call and I hear Mary also calling someone, very likely her supervisor. Before I make the call I quickly return to Merrick’s office and take some photographs of the scene from various angles in case that will be helpful. I then call the police station but it seems to take me a while to explain to the police switchboard operator the nature of the situation. He eventually puts me through to Detective Sergeant Smithers, to whom I repeat my explanation, including Mary’s name and extension number. He is economical with his words but to the point. He is clearly pondering whether the death is suspcious.
+I walk into the corridor to make my call and I hear Mary also calling someone, very likely her supervisor. Before I make the call I quickly return to Merrick’s office and take some photographs of the scene from various angles in case that will be helpful. I then call the police station but it seems to take me a while to explain to the police switchboard operator the nature of the situation. He eventually puts me through to Detective Sergeant Smithers, to whom I repeat my explanation, including Mary’s name and extension number. He is economical with his words but to the point. He is clearly pondering whether the death is suspicious. It only then strikes me that of course I have met Smithers before in the investigation of Sammy Becker-Lau’s murder. He makes no acknowledgement of that, though, and sticks to the matter at hand.
 
 “Have the ambulance paramedics arrived?”
 
