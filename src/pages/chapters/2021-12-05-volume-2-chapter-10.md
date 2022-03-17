@@ -37,7 +37,7 @@ While pondering the mystery death, I respond by saying, “I may well be given t
 
 That is an insightful question.
 
-“Let’s say she has been helpful earlier in the year. You need not suspect her.”
+“Let’s say she has been helpful to us earlier in the year. You need not suspect her.”
 
 Smithers seems to accept that without further question and probably takes it as an unofficial ‘yes’.
 
