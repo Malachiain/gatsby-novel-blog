@@ -27,7 +27,7 @@ I then get put on to Inka and she confirms she is being interviewed at Auckland 
 
 I speak to the cabbie. “Sorry, but there’s a change of destination. Auckland Central Police Station, please.”
 
-I arrive at the Police station. I need to show my SIS identification and be firm that I need to speak to Smithers immediately. He has an impressively dead-pan demeanour. He gives the appearance of neither being annoyed at being dragged out of an interview nor particularly curious about why I am here. I explain we have an interest in the death on the assumption that it was Eldon Merrick and so need to be kept in touch.
+I arrive at the Police station. I need to show my SIS identification and be firm that I need to speak to Smithers immediately. He has an impressively dead-pan demeanour. He gives the appearance of neither being annoyed at being dragged out of an interview nor particularly curious about why I am here. I tell him that I had been assigned to Inka Makkonen in connection with Sammy Becker-Lau’s murder, a point that may have been known to him but probably not front of mind. I explain we have an interest in the current death on the assumption that it was Eldon Merrick and so need to be kept in touch.
 
 Smithers says, “It wasn’t Professor Merrick who died but someone else who was in his office. We have yet to establish the identity of the deceased and the cause of death. We have been trying to get in touch with Professor Merrick, unsuccessfully so far.  We will keep you appraised. Can I consider you the SIS representative for this matter?”
 
@@ -37,7 +37,7 @@ While pondering the mystery death, I respond by saying, “I may well be given t
 
 That is an insightful question.
 
-“Let’s say she has been helpful to us in the past. You need not suspect her.”
+“Let’s say she has been helpful earlier in the year. You need not suspect her.”
 
 Smithers seems to accept that without further question and probably takes it as an unofficial ‘yes’.
 
