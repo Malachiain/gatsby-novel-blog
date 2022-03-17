@@ -43,7 +43,7 @@ The questioning then takes a new tack. “Were you upset when you saw the body? 
 
 “I was probably more surprised than upset. It is never pleasant to see a corpse but I have been in worse situations.”
 
-Smithers briefly explains to Cheryl how I had been caught up in the aftermath of Sammy’s death and had been assaulted. “You seem to attract suspicious deaths!” he says that lightly but I feel they are sizing me up.
+Smithers briefly explains to Cheryl how I had been caught up in the aftermath of Sammy’s death and had been assaulted. “You seem to attract suspicious deaths!” He says that lightly but I feel they are sizing me up.
 
 They carry on the interview in a less directed way, asking about my background and the nature of the research that led me to set up the meeting with Professor Merrick. Cheryl is now asking most of the questions.  She has a softer style but, in a way, is probably more searching. I think I bluffed my way through her  question about my research topic  even though in reality it was a pretty thin pretext.
 
